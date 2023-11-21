@@ -26,7 +26,6 @@
 
 ## OUTPUT:
 ![image](https://github.com/dakshasubbaian/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/112880924/938e8f30-4145-418c-9c52-7a94213382b9)
-
 ![image](https://github.com/dakshasubbaian/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/112880924/0b25f4f2-1b9d-4423-9a1e-16c33864de16)
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/113594316/1f3e6b6d-0724-41dc-b7d2-15516060d066)
